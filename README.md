@@ -57,11 +57,11 @@ Different metrics were used in evaluating the chosen models: Accuracy Score fr s
 - Despite being one of the most populous cities, Dar es Salaam has 35% non-functional good water quality points.
 - The majority of government-funded wells are inoperable.
 - The majority of the water points established by the district council and central government are not working.
-- The Logistic Regression model had an accuracy  score of 62% while the Decision Tree Classifier model yielded an accurscy score of 64%.
+- The Logistic Regression model had an accuracy  score of 62% while the Decision Tree Classifier model yielded an accuracy score of 64%.
 
 ## 4. Recommendations
-- The project executers should carefully consider the geographical locations of their wells since this is directly linked to their functionality/quantity of water that a well can yield.
-- We recommend DWE as a potential partner(if needed) since the analysis has shown that most of the well they have funded/installed are functional.
+- The project excecuters should carefully consider the geographical locations of their wells since this is directly linked to the functionality/quantity of water that a well can yield.
+- We recommend DWE as a potential partner(if needed) since the analysis has shown that most of the wells they have funded/installed are functional.
 - The gps height should also be considered in order to determine the type of pumps to be used at the wells.
 - Proximity to basins like Rufiji, Lake Victoria and Pangani is recommended for higher productivity.
   
